@@ -17,7 +17,6 @@ class Buttons extends StatelessWidget {
             border: Border.all(color: Colors.white12),
             color: Colors.black26,
           ),
-          height: 145,
           child: Center(
             child: Text(
               currentPlayer,
